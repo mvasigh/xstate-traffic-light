@@ -1,0 +1,18 @@
+html,
+body {
+  background: #444;
+  color: #eee;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+pre {
+  text-align: left;
+  max-width: 400px;
+  margin: 0 auto;
+  background: #212121;
+  padding: 1rem;
+}
